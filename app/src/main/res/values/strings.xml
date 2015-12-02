@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pathfinders</string>
+
+    <string name="instructions">Instructions go here</string>
+
+    <string name="game_text_1">Game Text Game Text Game Text Game Text Game Text Game Text Game Text Game Text
+    Game Text Game Text Game Text Game Text Game Text Game Text Game Text Game Text Game Text Game Text Game Text
+    Game Text Game Text Game Text Game Text Game Text Game Text Game Text Game Text Game Text Game Text Game Text
+    Game Text Game Text Game Text Game Text Game Text Game Text Game Text Game Text Game Text Game Text </string>
+</resources>
